@@ -1,0 +1,2 @@
+The terminal is the textual representation of the file system through which we can interact to the system.
+It is very usefull because provides full control in such way with a single instruction, we can do complex things such as changing machine IP. 
