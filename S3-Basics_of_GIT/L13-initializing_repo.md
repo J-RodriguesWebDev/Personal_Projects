@@ -1,0 +1,2 @@
+Initially, git does not know anything about our files. It is necessary to, after installing git, navigate to the repository intended and initialize the repo
+to do so, once in the repo (in the terminal), enter `git init` command
