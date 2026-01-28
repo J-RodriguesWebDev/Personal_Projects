@@ -1,6 +1,6 @@
 ## Pushing
 If we want our work to be available to other people in the same project, we push
-The command is git `push`
+The command is git push <repo_name> <branch_name>. Example: `git push origin feature_1`
 This copies all of the new commits into the cloud repository
 
 ## Pulling
