@@ -8,5 +8,6 @@ to create a local branch from the pulled branch and check out to it, you need to
 git checkout -b desired_branch_name pulled_branch_name
 In this example: `git checkout -b feature_new origing/feature_2` -> this new local branch feature_new now tracks remote feature_2
 
+## Scneario 2
 you can now merge it to your current branch (`git merge branch_name`)> In the example: `git merge origin/feature_2`
 merge command will merge the informed branch into the checked out branch as long as the checked out branch does not have any modified file.
